@@ -3,7 +3,7 @@
 <details open>
 <summary><b>🇫🇷 Version Française (Cliquez pour dérouler)</b></summary>
 
-### 🚀 UI/UX Designer & Développeur Full Stack
+###  UI/UX Designer & Développeur Full Stack
 
 Je conçois des interfaces numériques modernes et centrées sur l'utilisateur, et je propulse toute l'architecture technique derrière, du Front-End au Back-End. Ma force ? Maîtriser toute la chaîne de création d'un produit digital.
 
@@ -31,7 +31,7 @@ I design modern, user-centered digital interfaces and build the entire technical
 *   **Facture Proforma** : Architecture and development of a complete Full Stack application for invoicing and management.
 
 #### 📬 Contact Me
-*   💼 **Available for new opportunities (Freelance / Permanent / Contract)**
+*   💼 **Available for new opportunities (Freelance / Permanent)**
 *   📫 Feel free to reach out via private message or through my professional networks.
 
 </details>
