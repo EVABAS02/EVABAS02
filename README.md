@@ -43,7 +43,7 @@ I design modern, user-centered digital interfaces and build the entire technical
 #### 🎨 Design & UI/UX
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
-#### ⚡ No-Code & AI Development
+
 #### ⚡ No-Code & AI Development
 ![Glide](https://img.shields.io/badge/Glide-00D2B4?style=for-the-badge&logo=glide&logoColor=white) ![AppSheet](https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable.dev-7C3AED?style=for-the-badge) ![Base44](https://img.shields.io/badge/Base44-222222?style=for-the-badge)
 #### 💻 Front-End
