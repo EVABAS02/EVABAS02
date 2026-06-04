@@ -1,6 +1,6 @@
 # Salut, moi c'est Léon ! 👋
 
-### 🚀 UI/UX Designer & Développeur Full Stack
+###  UI/UX Designer & Développeur Full Stack
 
 Je conçois des interfaces numériques modernes et centrées sur l'utilisateur, et je propulse toute l'architecture technique derrière, du Front-End au Back-End. Ma force ? Maîtriser toute la chaîne de création d'un produit digital.
 
