@@ -1,9 +1,16 @@
 # Salut, moi c'est Léon ! 👋 / Hi, I'm Léon! 👋
 
+<!-- EFFET MACHINE À ÉCRIRE ANIMÉE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;D%C3%A9veloppeur+Full+Stack;No-Code+%26+AI+Developer" alt="Typing Animation" />
+</p>
+
+<br />
+
 <details open>
 <summary><b>🇫🇷 Version Française (Cliquez pour dérouler)</b></summary>
 
-###  UI/UX Designer & Développeur Full Stack
+### 🚀 UI/UX Designer & Développeur Full Stack
 
 Je conçois des interfaces numériques modernes et centrées sur l'utilisateur, et je propulse toute l'architecture technique derrière, du Front-End au Back-End. Ma force ? Maîtriser toute la chaîne de création d'un produit digital.
 
@@ -22,7 +29,7 @@ Je conçois des interfaces numériques modernes et centrées sur l'utilisateur, 
 <details>
 <summary><b>🇬🇧 English Version (Click to expand)</b></summary>
 
-###  UI/UX Designer & Full Stack Developer
+### 🚀 UI/UX Designer & Full Stack Developer
 
 I design modern, user-centered digital interfaces and build the entire technical architecture behind them, from Front-End to Back-End. My strength? Mastering the complete lifecycle of a digital product.
 
@@ -43,9 +50,9 @@ I design modern, user-centered digital interfaces and build the entire technical
 #### 🎨 Design & UI/UX
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
-
 #### ⚡ No-Code & AI Development
 ![Glide](https://img.shields.io/badge/Glide-00D2B4?style=for-the-badge&logo=glide&logoColor=white) ![AppSheet](https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable.dev-7C3AED?style=for-the-badge) ![Base44](https://img.shields.io/badge/Base44-222222?style=for-the-badge)
+
 #### 💻 Front-End
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -57,3 +64,11 @@ I design modern, user-centered digital interfaces and build the entire technical
 
 #### 🛠️ Environnement
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 Statistiques GitHub (Live & Animé)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EVABAS02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVABAS02&layout=compact&theme=tokyonight" />
+</p>
