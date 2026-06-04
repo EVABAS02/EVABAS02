@@ -12,7 +12,7 @@ Je conçois des interfaces numériques modernes et centrées sur l'utilisateur, 
 *   **Facture Proforma** : Architecture et développement d'une application Full Stack complète de gestion et de facturation.
 
 #### 📬 Me contacter
-*   💼 **Disponible pour de nouvelles opportunités (Freelance / CDI / Alternance)**
+*   💼 **Disponible pour de nouvelles opportunités (Freelance)**
 *   📫 Tu peux me joindre par message privé ici ou via mes réseaux professionnels.
 
 </details>
@@ -44,7 +44,7 @@ I design modern, user-centered digital interfaces and build the entire technical
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
 #### ⚡ No-Code & AI Development
-![Glide](https://img.shields.io/badge/Glide-00D2B4?style=for-the-badge&logo=glide&logoColor=white) ![AppSheet](https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable.dev-7C3AED?style=for-the-badge) ![Baserow](https://img.shields.io/badge/Baserow-0052FF?style=for-the-badge)
+![Glide](https://img.shields.io/badge/Glide-00D2B4?style=for-the-badge&logo=glide&logoColor=white) ![AppSheet](https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable.dev-7C3AED?style=for-the-badge) ![Base44](https://img.shields.io/badge/Baserow-0052FF?style=for-the-badge)
 
 #### 💻 Front-End
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
