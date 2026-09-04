@@ -1,74 +1,234 @@
-# Salut, moi c'est Léon ! 👋 / Hi, I'm Léon! 👋
+# 👋 Salut, moi c'est Léon
 
-<!-- EFFET MACHINE À ÉCRIRE ANIMÉE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;D%C3%A9veloppeur+Full+Stack;No-Code+%26+AI+Developer" alt="Typing Animation" />
+  <strong>UI/UX Designer · Full Stack Developer · No-Code & AI Developer</strong>
 </p>
 
-<br />
-
-<details open>
-<summary><b>🇫🇷 Version Française (Cliquez pour dérouler)</b></summary>
-
-### 🚀 UI/UX Designer & Développeur Full Stack
-
-Je conçois des interfaces numériques modernes et centrées sur l'utilisateur, et je propulse toute l'architecture technique derrière, du Front-End au Back-End. Ma force ? Maîtriser toute la chaîne de création d'un produit digital.
-
-#### 📁 Projets Récents
-*   **Moravi-web** : Conception UI/UX et développement Full Stack de la plateforme vitrine commerciale.
-*   **Facture Proforma** : Architecture et développement d'une application Full Stack complète de gestion et de facturation.
-
-#### 📬 Me contacter
-*   💼 **Disponible pour de nouvelles opportunités (Freelance)**
-*   📫 Tu peux me joindre par message privé ici ou via mes réseaux professionnels.
-
-</details>
-
-<br />
-
-<details>
-<summary><b>🇬🇧 English Version (Click to expand)</b></summary>
-
-### 🚀 UI/UX Designer & Full Stack Developer
-
-I design modern, user-centered digital interfaces and build the entire technical architecture behind them, from Front-End to Back-End. My strength? Mastering the complete lifecycle of a digital product.
-
-#### 📁 Recent Projects
-*   **Moravi-web** : UI/UX design and Full Stack development of a commercial showcase platform.
-*   **Facture Proforma** : Architecture and development of a complete Full Stack application for invoicing and management.
-
-#### 📬 Contact Me
-*   💼 **Available for new opportunities (Freelance / Permanent)**
-*   📫 Feel free to reach out via private message or through my professional networks.
-
-</details>
-
----
-
-### 🛠️ Compétences & Outils / Skills & Tools
-
-#### 🎨 Design & UI/UX
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
-
-#### ⚡ No-Code & AI Development
-![Glide](https://img.shields.io/badge/Glide-00D2B4?style=for-the-badge&logo=glide&logoColor=white) ![AppSheet](https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable.dev-7C3AED?style=for-the-badge) ![Base44](https://img.shields.io/badge/Base44-222222?style=for-the-badge)
-
-#### 💻 Front-End
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-#### ⚙️ Back-End & Logiciels
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node-dot-js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-#### 🗄️ Base de données & BaaS
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-
-#### 🛠️ Environnement
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 Statistiques GitHub (Live & Animé)
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EVABAS02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVABAS02&layout=compact&theme=tokyonight" />
+  Je transforme des idées en produits digitaux modernes, fonctionnels et accessibles — de la conception UX/UI jusqu'au développement et à la mise en production.
+</p>
+
+<p align="center">
+  <a href="https://github.com/EVABAS02">
+    <img src="https://img.shields.io/github/followers/EVABAS02?label=Followers&style=flat&logo=github" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/EVABAS02?tab=repositories">
+    <img src="https://img.shields.io/github/stars/EVABAS02?affiliations=OWNER&style=flat&logo=github" alt="GitHub stars">
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 À propos de moi
+
+Je suis **Léon**, UI/UX Designer et développeur Full Stack.
+
+J'aime travailler sur des projets où **design, expérience utilisateur et ingénierie logicielle** doivent fonctionner ensemble.
+
+Mon approche consiste à partir du besoin réel pour construire une solution cohérente :
+
+```text
+💡 Idée
+   ↓
+🔎 Analyse du besoin
+   ↓
+🎨 UX / UI Design
+   ↓
+⚛️ Développement Front-End
+   ↓
+⚙️ Développement Back-End
+   ↓
+🗄️ Données & Architecture
+   ↓
+🔐 Sécurité & Optimisation
+   ↓
+🚀 Déploiement
+```
+
+Je m'intéresse particulièrement à la création de **produits web, applications métier, interfaces modernes et solutions digitales sur mesure**.
+
+---
+
+## 🚀 Ce que je fais
+
+| Domaine             | Ce que je réalise                                                           |
+| ------------------- | --------------------------------------------------------------------------- |
+| 🎨 **UI/UX Design** | Interfaces, parcours utilisateurs, wireframes, prototypes et design systems |
+| 💻 **Front-End**    | Applications web modernes, responsive et performantes                       |
+| ⚙️ **Back-End**     | APIs, logique métier, authentification et services applicatifs              |
+| 🗄️ **Data & BaaS** | Modélisation, bases de données, Firebase et Supabase                        |
+| 🤖 **No-Code & AI** | Prototypage rapide, automatisation et développement assisté par IA          |
+| 🚀 **Déploiement**  | Mise en production et maintenance des applications                          |
+
+---
+
+# 🛠️ Stack technique
+
+## 🎨 Design & UI/UX
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" title="Figma"/>
+</p>
+
+**Figma**
+
+---
+
+## 💻 Front-End
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"/>
+</p>
+
+**React · Next.js · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS**
+
+---
+
+## ⚙️ Back-End
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48" alt="PHP" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel" title="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python"/>
+</p>
+
+**Node.js · PHP · Laravel · Python**
+
+---
+
+## 🗄️ Bases de données & Backend Services
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase" title="Supabase"/>
+</p>
+
+**MySQL · MongoDB · Firebase · Supabase**
+
+---
+
+## ⚡ No-Code & AI
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Glide-No--Code-00D2B4?style=flat-square" alt="Glide"/>
+  <img src="https://img.shields.io/badge/AppSheet-No--Code-4285F4?style=flat-square" alt="AppSheet"/>
+  <img src="https://img.shields.io/badge/Lovable-AI%20Development-7C3AED?style=flat-square" alt="Lovable"/>
+  <img src="https://img.shields.io/badge/Base44-AI%20Development-222222?style=flat-square" alt="Base44"/>
+</p>
+
+J'utilise également les outils **No-Code et AI** lorsque ceux-ci permettent de prototyper, automatiser ou livrer une solution plus rapidement, sans sacrifier la qualité du produit.
+
+---
+
+## 🧰 Outils & environnement
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm" title="npm"/>
+</p>
+
+**VS Code · Git · GitHub · npm**
+
+---
+
+# 📁 Projets sélectionnés
+
+## 🏢 Moravi Web
+
+**Plateforme vitrine commerciale**
+
+Conception UI/UX et développement Full Stack d'une plateforme destinée à présenter l'activité et les produits d'une entreprise.
+
+**Focus :**
+
+* 🎨 UI/UX Design
+* 📱 Responsive Design
+* 💻 Front-End
+* ⚙️ Architecture Full Stack
+* 🚀 Déploiement
+
+---
+
+## 🧾 Facture Proforma
+
+**Application de gestion et de facturation**
+
+Développement d'une application Full Stack destinée à faciliter la création et la gestion de documents de facturation.
+
+**Focus :**
+
+* ⚛️ Interface utilisateur
+* 🔐 Authentification
+* 🗄️ Gestion des données
+* ⚙️ Logique métier
+* 📄 Génération de documents
+
+---
+
+# 📈 GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=EVABAS02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="170"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVABAS02&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+# 🎯 Actuellement
+
+```text
+🔨 Je développe
+   → des applications web et outils métier
+
+🎨 Je conçois
+   → des interfaces modernes et centrées utilisateur
+
+🧠 J'explore
+   → l'IA, le No-Code et les nouvelles méthodes de développement
+
+📚 J'améliore
+   → mes compétences en architecture, sécurité et ingénierie logicielle
+```
+
+---
+
+# 🤝 Collaborons
+
+Je suis ouvert aux **projets freelance**, collaborations et opportunités professionnelles autour du :
+
+**UI/UX · développement Full Stack · applications web · No-Code · AI Development**
+
+<p align="center">
+  <strong>💬 Une idée ? Transformons-la en produit.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/EVABAS02">
+    <img src="https://img.shields.io/badge/GitHub-EVABAS02-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Conçu et développé par Léon EVABAS</sub>
 </p>
