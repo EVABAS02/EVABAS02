@@ -1,116 +1,121 @@
-# 👋 Salut, moi c'est Léon
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=38B2AC&center=true&vCenter=true&width=800&lines=UI%2FUX+Designer;Full+Stack+Developer;No-Code+%26+AI+Developer;Digital+Product+Builder" alt="Typing animation" />
-</p>
+# LÉON EVABAS
 
-<p align="center">
-  <strong>Je conçois. Je développe. Je transforme des idées en produits digitaux.</strong>
-</p>
+### UI/UX Designer · Full Stack Developer · No-Code & AI
 
-<p align="center">
-  De l'expérience utilisateur à l'architecture technique, je construis des solutions modernes,
-  performantes et pensées pour répondre à de vrais besoins.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Designing+digital+experiences.;Building+modern+web+applications.;Turning+ideas+into+real+products.;From+concept+to+production." alt="Typing animation"/>
 
-<p align="center">
+<br/>
+
+<p>
   <a href="https://github.com/EVABAS02">
-    <img src="https://img.shields.io/github/followers/EVABAS02?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/followers/EVABAS02?style=flat-square&label=Followers&logo=github" alt="GitHub Followers"/>
   </a>
+  &nbsp;
   <a href="https://github.com/EVABAS02?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore-38B2AC?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+    <img src="https://img.shields.io/badge/Projects-Explore-38B2AC?style=flat-square&logo=github" alt="Projects"/>
   </a>
 </p>
+
+</div>
 
 ---
 
-# 🧠 À propos
+## `/ PROFILE`
+
+> **I turn ideas into digital products.**
 
 Je suis **Léon**, UI/UX Designer et développeur Full Stack.
 
-Je m'intéresse à toute la chaîne de création d'un produit numérique : comprendre le problème, concevoir l'expérience, développer la solution, structurer les données, sécuriser l'application et la mettre en production.
+Je conçois et développe des produits numériques en travaillant sur l'ensemble du processus : compréhension du besoin, expérience utilisateur, interface, développement, architecture, données, sécurité et déploiement.
+
+Mon approche se situe à la rencontre de **Design × Engineering × Product**.
 
 ```text
-             💡 IDÉE
-                │
-                ▼
-        🔎 ANALYSE DU BESOIN
-                │
-                ▼
-          🎨 UX / UI DESIGN
-                │
-                ▼
-        💻 FRONT-END
-                │
-                ▼
-        ⚙️ BACK-END
-                │
-                ▼
-       🗄️ DATA & ARCHITECTURE
-                │
-                ▼
-       🔐 SÉCURITÉ & TESTS
-                │
-                ▼
-          🚀 PRODUCTION
+IDEA
+  ↓
+DISCOVER
+  ↓
+DESIGN
+  ↓
+ENGINEER
+  ↓
+SECURE
+  ↓
+DEPLOY
+  ↓
+IMPROVE
 ```
-
-> **Mon objectif :** construire des produits qui sont à la fois agréables à utiliser, solides techniquement et utiles.
 
 ---
 
-# 🚀 Ce que je fais
+## `/ WHAT I BUILD`
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎨 UI/UX Design
+### PRODUCT DESIGN
 
-* User flows
+Concevoir des interfaces qui ne sont pas seulement belles, mais surtout **claires, cohérentes et utiles**.
+
+* UX Research
+* User Flows
 * Wireframes
 * Prototypes
-* Interfaces responsives
-* Design systems
-* Expérience utilisateur
+* UI Design
+* Design Systems
+* Responsive Design
 
 </td>
-<td width="50%">
 
-### 💻 Full Stack
+<td width="50%" valign="top">
 
-* Applications web
+### FULL STACK
+
+Transformer une idée en application fonctionnelle avec une architecture adaptée au besoin.
+
 * Front-End
 * Back-End
-* APIs
-* Authentification
-* Gestion des données
+* REST APIs
+* Authentication
+* Database
+* Business Logic
+* Deployment
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 No-Code & AI
+### NO-CODE & AI
 
-* Prototypage rapide
-* Automatisation
-* AI-assisted development
-* Solutions No-Code
+Utiliser le No-Code et l'IA comme **accélérateurs de conception et de développement**.
+
+* Rapid Prototyping
+* Automation
+* AI-assisted Development
 * MVP
+* Internal Tools
+* Business Solutions
 
 </td>
-<td width="50%">
 
-### 🚀 Produit & Production
+<td width="50%" valign="top">
+
+### ENGINEERING
+
+Construire des applications pensées pour évoluer.
 
 * Architecture
-* Sécurité
-* Optimisation
-* Déploiement
+* Security
+* Performance
+* Testing
+* Version Control
 * Maintenance
-* Évolution du produit
+* Optimization
 
 </td>
 </tr>
@@ -118,115 +123,122 @@ Je m'intéresse à toute la chaîne de création d'un produit numérique : compr
 
 ---
 
-# 🛠️ Stack & Technologies
+## `/ TECHNOLOGY`
 
-## 🎨 Design
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="55" height="55" alt="Figma" title="Figma"/>
-</p>
-
----
-
-## 💻 Front-End
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="55" height="55" alt="React" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="55" height="55" alt="Next.js" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind CSS" title="Tailwind CSS"/>
-</p>
+### DESIGN
 
 <p>
-  <strong>React · Next.js · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" title="Figma"/>
 </p>
 
 ---
 
-## ⚙️ Back-End
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="55" height="55" alt="PHP" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="55" height="55" alt="Laravel" title="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55" alt="Python" title="Python"/>
-</p>
+### FRONT-END
 
 <p>
-  <strong>Node.js · PHP · Laravel · Python</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React" title="React"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" title="Next.js"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" title="TypeScript"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" title="CSS3"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" title="Tailwind CSS"/>
 </p>
+
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS`
 
 ---
 
-## 🗄️ Data & Backend Services
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="55" height="55" alt="Firebase" title="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="55" height="55" alt="Supabase" title="Supabase"/>
-</p>
+### BACK-END
 
 <p>
-  <strong>MySQL · MongoDB · Firebase · Supabase</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" title="Node.js"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" height="45" alt="PHP" title="PHP"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="45" height="45" alt="Laravel" title="Laravel"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python"/>
+</p>
+
+`Node.js` · `PHP` · `Laravel` · `Python`
+
+---
+
+### DATA & BaaS
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" title="MongoDB"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase" title="Firebase"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="45" height="45" alt="Supabase" title="Supabase"/>
+</p>
+
+`MySQL` · `MongoDB` · `Firebase` · `Supabase`
+
+---
+
+### NO-CODE & AI
+
+<p>
+<img src="https://img.shields.io/badge/Glide-00D2B4?style=flat-square&logo=glide&logoColor=white" alt="Glide"/>
+<img src="https://img.shields.io/badge/AppSheet-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="AppSheet"/>
+<img src="https://img.shields.io/badge/Lovable-7C3AED?style=flat-square" alt="Lovable"/>
+<img src="https://img.shields.io/badge/Base44-222222?style=flat-square" alt="Base44"/>
 </p>
 
 ---
 
-## 🤖 No-Code & AI
+### TOOLS
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Glide-00D2B4?style=for-the-badge&logo=glide&logoColor=white" alt="Glide"/>
-  <img src="https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="AppSheet"/>
-  <img src="https://img.shields.io/badge/Lovable-7C3AED?style=for-the-badge" alt="Lovable"/>
-  <img src="https://img.shields.io/badge/Base44-222222?style=for-the-badge" alt="Base44"/>
-</p>
-
-J'utilise le **No-Code et l'IA comme des accélérateurs**, notamment pour le prototypage, l'automatisation et la création rapide de solutions.
-
----
-
-## 🧰 Outils
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" height="55" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" height="55" alt="GitHub" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="55" height="55" alt="npm" title="npm"/>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" title="VS Code"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="45" height="45" alt="npm" title="npm"/>
 </p>
 
 ---
 
-# 📁 Projets sélectionnés
+## `/ SELECTED WORK`
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🏢 Moravi Web
+### 01 · MORAVI WEB
 
-### Commercial Web Experience
+**Commercial Web Experience**
 
-Plateforme vitrine commerciale conçue pour présenter l'activité et les produits d'une entreprise.
+Site vitrine conçu pour présenter l'activité, l'identité et les produits d'une entreprise.
 
-**Stack / Focus**
+**Focus**
 
-`UI/UX` `Responsive` `Front-End` `Full Stack` `Deployment`
+`UI/UX` `Responsive` `Front-End` `Architecture` `Deployment`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🧾 Facture Proforma
+### 02 · FACTURE PROFORMA
 
-### Business Management Application
+**Business Management Application**
 
-Application Full Stack destinée à simplifier la création et la gestion de documents de facturation.
+Application destinée à simplifier la création et la gestion de documents de facturation.
 
-**Stack / Focus**
+**Focus**
 
 `UI` `Authentication` `Database` `Business Logic` `Documents`
 
@@ -236,106 +248,161 @@ Application Full Stack destinée à simplifier la création et la gestion de doc
 
 ---
 
-# 🔄 Ma façon de travailler
+## `/ WORKFLOW`
 
-<p align="center">
+<table>
+<tr>
+<td align="center">
+
+### 01
 
 **DISCOVER**
 
-↓
+Comprendre le problème, les utilisateurs et les objectifs.
+
+</td>
+
+<td align="center">
+
+### 02
 
 **DESIGN**
 
-↓
+Transformer le besoin en expérience et interface.
+
+</td>
+
+<td align="center">
+
+### 03
 
 **BUILD**
 
-↓
+Développer une solution fonctionnelle et maintenable.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 04
 
 **TEST**
 
-↓
+Vérifier l'expérience, le comportement et la qualité.
+
+</td>
+
+<td align="center">
+
+### 05
 
 **SECURE**
 
-↓
+Protéger les données et renforcer l'application.
+
+</td>
+
+<td align="center">
+
+### 06
 
 **DEPLOY**
 
-↓
+Mettre le produit en production et continuer à l'améliorer.
 
-**IMPROVE**
-
-</p>
-
-Je cherche toujours à garder un équilibre entre **expérience utilisateur, qualité du code, architecture, sécurité et performance**.
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Analytics
+## `/ GITHUB`
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=EVABAS02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
-    alt="GitHub Statistics"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVABAS02&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Most Used Languages"
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=EVABAS02&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=38B2AC&icon_color=38B2AC" height="170" alt="GitHub Statistics"/>
+
+  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVABAS02&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC" height="170" alt="Most Used Languages"/>
+
 </p>
 
 ---
 
-# 🎯 Actuellement
+## `/ CURRENTLY`
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+**BUILDING**
+
+Web applications
+& business tools
+
+</td>
+
+<td width="25%" align="center">
+
+**DESIGNING**
+
+Modern interfaces
+& digital experiences
+
+</td>
+
+<td width="25%" align="center">
+
+**EXPLORING**
+
+AI · No-Code
+& new technologies
+
+</td>
+
+<td width="25%" align="center">
+
+**LEARNING**
+
+Architecture · Security
+& Engineering
+
+</td>
+</tr>
+</table>
+
+---
+
+## `/ PRINCIPLES`
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  🔨 BUILDING                                │
-│  Applications web & outils métier           │
-│                                              │
-│  🎨 DESIGNING                               │
-│  Interfaces modernes & expériences UX       │
-│                                              │
-│  🧠 EXPLORING                               │
-│  AI · No-Code · nouvelles technologies      │
-│                                              │
-│  📚 LEARNING                                │
-│  Architecture · Security · Engineering      │
-│                                              │
-└──────────────────────────────────────────────┘
+01  User first
+02  Simple over complicated
+03  Design with purpose
+04  Code with structure
+05  Security by design
+06  Build for evolution
 ```
 
 ---
 
-# 🤝 Travaillons ensemble
+<div align="center">
 
-Je suis ouvert aux :
+## LET'S BUILD SOMETHING GREAT.
 
-**Freelance · Collaborations · Projets web · Applications métier · UI/UX · Full Stack · No-Code · AI**
-
-<p align="center">
-  <strong>💬 Une idée ? Construisons-la.</strong>
-</p>
-
-<p align="center">
+<p>
   <a href="https://github.com/EVABAS02">
     <img src="https://img.shields.io/badge/GitHub-EVABAS02-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=100&section=footer" width="100%" alt="Footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=100&section=footer" width="100%" alt="Footer"/>
 
-<p align="center">
-  <sub>Designed & built by Léon EVABAS · 2026</sub>
-</p>
+<sub>Designed & built by <strong>Léon EVABAS</strong> · 2026</sub>
+
+</div>
