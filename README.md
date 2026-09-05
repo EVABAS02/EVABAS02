@@ -22,7 +22,7 @@
 
 ---
 
-## `/ PROFILE`
+## ` PROFILE`
 
 > **I turn ideas into digital products.**
 
@@ -50,7 +50,7 @@ IMPROVE
 
 ---
 
-## `/ WHAT I BUILD`
+## ` WHAT I BUILD`
 
 <table>
 <tr>
@@ -123,7 +123,7 @@ Construire des applications pensées pour évoluer.
 
 ---
 
-## `/ TECHNOLOGY`
+## ` TECHNOLOGY`
 
 ### DESIGN
 
@@ -212,7 +212,7 @@ Construire des applications pensées pour évoluer.
 
 ---
 
-## `/ SELECTED WORK`
+## ` SELECTED WORK`
 
 <table>
 <tr>
@@ -248,7 +248,7 @@ Application destinée à simplifier la création et la gestion de documents de f
 
 ---
 
-## `/ WORKFLOW`
+## ` WORKFLOW`
 
 <table>
 <tr>
@@ -318,7 +318,7 @@ Mettre le produit en production et continuer à l'améliorer.
 
 ---
 
-## `/ GITHUB`
+## ` GITHUB`
 
 <p align="center">
 
@@ -332,7 +332,7 @@ Mettre le produit en production et continuer à l'améliorer.
 
 ---
 
-## `/ CURRENTLY`
+## ` CURRENTLY`
 
 <table>
 <tr>
@@ -376,7 +376,7 @@ Architecture · Security
 
 ---
 
-## `/ PRINCIPLES`
+## ` PRINCIPLES`
 
 ```text
 01  User first
